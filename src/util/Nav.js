@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import "./Nav.scss"
-import lineLogo from "../LINE_Brand_icon.png"
+import lineLogo from "../line_brand_icon.png"
 import logo_small from "../logo_small.png"
 
 export const Nav = () => {
