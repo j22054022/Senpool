@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2d834ef2.css",
+    "main.js": "/static/js/main.d75fdd95.js",
+    "static/js/787.7da92efd.chunk.js": "/static/js/787.7da92efd.chunk.js",
+    "static/media/showcase_2.jpg": "/static/media/showcase_2.cc6db73f02f2fde0a21c.jpg",
+    "static/media/S__6496574.jpg": "/static/media/S__6496574.3dca1b8809900cd04e2d.jpg",
+    "static/media/showcase_0.jpg": "/static/media/showcase_0.0a0b7206e6cb0d75eb47.jpg",
+    "static/media/showcase_3.jpg": "/static/media/showcase_3.d3edd0249695ccd04cab.jpg",
+    "static/media/showcase_1.jpg": "/static/media/showcase_1.c39d91a015b936560dd2.jpg",
+    "static/media/map.png": "/static/media/map.73948584a92a3fc87a6f.png",
+    "static/media/maintenance.png": "/static/media/maintenance.695990c63705a4503de8.png",
+    "static/media/LINE_Brand_icon.png": "/static/media/LINE_Brand_icon.99ebb67660a5abe864ef.png",
+    "static/media/trade.png": "/static/media/trade.ab4b94e00ef8359de6d8.png",
+    "static/media/gmail.png": "/static/media/gmail.c44791496f7860fe64b8.png",
+    "static/media/customer-service.png": "/static/media/customer-service.96669738cc7d642e3442.png",
+    "index.html": "/index.html",
+    "main.2d834ef2.css.map": "/static/css/main.2d834ef2.css.map",
+    "main.d75fdd95.js.map": "/static/js/main.d75fdd95.js.map",
+    "787.7da92efd.chunk.js.map": "/static/js/787.7da92efd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d834ef2.css",
+    "static/js/main.d75fdd95.js"
+  ]
+}
