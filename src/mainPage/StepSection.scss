@@ -1,0 +1,33 @@
+.stepSection {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    & .step {
+        width: 50vw;
+        line-height: 4rem;
+        border-radius: 1rem;
+        border: 1px #000 solid;
+        background-color: linear-gradient();
+    }
+    & svg {
+        transform: rotate(90deg);
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+    & svg:last-child {
+        display: none;
+    }
+}
+
+// .step__explain {
+//     transition: all 0.5s ease;
+//     width: 0rem;
+//     height: 0rem;
+//     z-index: -1;
+//     background-color: #aaa;
+// }
